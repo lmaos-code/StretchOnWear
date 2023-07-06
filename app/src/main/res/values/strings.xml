@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stretch on Wear</string>
+    <string name="title_activity_main">Setup your Stretches</string>
+    <string name="stretch_logo">Stretch on Wear Logo</string>
+    <string name="complication_label">Number of Stretch Sessions</string>
+    <string name="tile_label">Number of Stretch Sessions</string>
+    <string name="setup_stretch_session">Set Up your Stretch Session!</string>
+
+
+</resources>
