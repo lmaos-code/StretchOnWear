@@ -4,7 +4,8 @@
     <string name="stretch_logo">Stretch on Wear Logo</string>
     <string name="complication_label">Number of Stretch Sessions</string>
     <string name="tile_label">Number of Stretch Sessions</string>
-    <string name="setup_stretch_session">Set Up your Stretch Session!</string>
+    <string name="active_seconds">How many Seconds of Stretching?</string>
+    <string name="passive_seconds">How many Seconds of Rest?</string>
 
 
 </resources>

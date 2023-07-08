@@ -22,7 +22,7 @@ private const val RESOURCES_VERSION = "0"
 /**
  * Skeleton for a tile with no images.
  */
-class MainTileService : CoroutinesTileService() {
+class MainTileService: CoroutinesTileService() {
 
     override suspend fun resourcesRequest(
         requestParams: RequestBuilders.ResourcesRequest
